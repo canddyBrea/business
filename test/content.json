@@ -1,0 +1,25 @@
+{
+  "text" : "src",
+  "children": [
+    {"text": "global",
+      "children": [{
+        "text": "constants"
+      }]
+    },
+    {"text": "api"},
+    {"text": "cmd"},
+    {"text": "dao"},
+    {"text": "config"},
+    {"text": "model"},
+    {"text": "router"},
+    {"text": "service",
+      "children": [{
+        "text": "dto"
+      }]
+    },
+    {"text": "initialize"},
+    {"text": "log"},
+    {"text": "middleware"},
+    {"text": "util"}
+  ]
+}
